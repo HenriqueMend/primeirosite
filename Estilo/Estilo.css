@@ -1,0 +1,45 @@
+h1 {
+  color: rgb(241, 245, 14);
+}
+
+h2 {
+  color: rgb(255, 255, 255);
+}
+
+h3 {
+  color: white;
+}
+
+p {
+  color: rgb(117, 198, 245);
+}
+
+body {
+  background-color: rgb(8, 43, 112);
+  padding-bottom: 20px;
+}
+
+ol {
+  color: rgb(117, 198, 245);
+}
+
+table {
+  color: rgb(255, 255, 255);
+}
+
+form {
+  color: rgb(117, 198, 245);
+}
+
+.titulo_principal {
+  font-family: "Bebas Neue", Arial, sans-serif;
+  font-size: 50px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: -1;
+}
