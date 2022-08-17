@@ -36,6 +36,16 @@ form {
   font-size: 50px;
 }
 
+.bebas {
+  font-family: "Bebas Neue", Arial, sans-serif;
+}
+
+.paragrafo {
+  font-family: "Alumni Sans Pinstripe", Arial, sans-serif;
+  font-size: 25px;
+  font-style: oblique;
+}
+
 .footer {
   position: fixed;
   left: 0;
